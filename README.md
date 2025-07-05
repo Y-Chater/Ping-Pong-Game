@@ -38,7 +38,7 @@ Run the game:
 python ping-pong.py
 ```
 
-##🛠 Coming Soon
+## 🛠 Coming Soon
 Live score display
 
 Sound effects
